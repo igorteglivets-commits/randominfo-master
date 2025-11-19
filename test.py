@@ -27,6 +27,7 @@ except IndexError:
         address = "123 Main St"
     person = DummyPerson()
 
+
 print("Full Name:", person.full_name)
 print("Gender:", person.gender)
 print("Country:", person.country)
